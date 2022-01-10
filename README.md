@@ -1,6 +1,7 @@
 # TestTaskForSkai
 Tucan Tournament is a tournament where several players compete in several sports. Right now, the sports played are basketball and handball games. 
 They plan to add more sports in the future.
+
 Description of the program
 1. The program creates the object of the tournament which will be used farther in the program.
 2. The program checks files in the “CSV_files” folder for the wrong format of the files.
